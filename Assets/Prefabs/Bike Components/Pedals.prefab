@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1126285613414753407
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5378410882712521402}
+  - component: {fileID: 6657084133273273362}
+  - component: {fileID: 4596084180472663394}
+  m_Layer: 0
+  m_Name: Pedals
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5378410882712521402
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126285613414753407}
+  m_LocalRotation: {x: 0.000000016760923, y: -0.000000014026506, z: -0.039703865,
+    w: 0.9992115}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.03, y: 0.03, z: 0.03}
+  m_Children: []
+  m_Father: {fileID: 1771704349015444287}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -4.551}
+--- !u!33 &6657084133273273362
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126285613414753407}
+  m_Mesh: {fileID: -7862024324372911716, guid: 414759da7e4a23d43b32277563490603, type: 3}
+--- !u!23 &4596084180472663394
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126285613414753407}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 7490952440742008943, guid: 414759da7e4a23d43b32277563490603, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!1001 &2400599514364441034
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1160280928803610105, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1942808481527501173, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_text
+      value: Pedals
+      objectReference: {fileID: 0}
+    - target: {fileID: 1942808481527501173, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1942808481527501173, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1942808481527501173, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215496785882995126, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: _componentType
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001353114701083674, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8452153370743503894, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+        type: 3}
+      propertyPath: m_Name
+      value: Pedals
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4ba28e99534207b44b529c7f0ee5bb50, type: 3}
+--- !u!4 &1771704349015444287 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4163295546896710389, guid: 4ba28e99534207b44b529c7f0ee5bb50,
+    type: 3}
+  m_PrefabInstance: {fileID: 2400599514364441034}
+  m_PrefabAsset: {fileID: 0}

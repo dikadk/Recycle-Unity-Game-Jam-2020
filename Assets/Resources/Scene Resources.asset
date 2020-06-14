@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6338630421291911377
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5e136e8fee949578a9dbc93c68edb8c, type: 3}
+  m_Name: Bins
+  m_EditorClassIdentifier: 
+  path: RScene
+  assetName: Bins
+  assetType: 0
+  stringValue: 
+  floatValue: 0
+  intValue: 0
+  colorValue: {r: 0, g: 0, b: 0, a: 0}
+  enumItems: []
+  vector2Value: {x: 0, y: 0}
+  vector2IntValue: {x: 0, y: 0}
+  vector3Value: {x: 0, y: 0, z: 0}
+  vector3IntValue: {x: 0, y: 0, z: 0}
+  objectReferenceValue: {fileID: 0}
+  boolValue: 0
+  isRealtime: 1
+  guid: 30618004-5e28-424a-8253-88fccc032d5a
+  isPool: 0
+  poolSize: 5
+  expanded: 1
+  comment: 
+  registeredComponents: []
+  poolDebugEnabled: 0
+  commentExpanded: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc3123fdf35449e4ad8ccf92839f5f50, type: 3}
+  m_Name: Scene Resources
+  m_EditorClassIdentifier: 
+  resources:
+  - {fileID: -6338630421291911377}
+  savePath: Assets/Generated Code
+  pathHasBeenInitialized: 1

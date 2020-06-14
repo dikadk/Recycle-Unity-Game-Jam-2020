@@ -1,0 +1,17 @@
+{
+    "name": "AssetLinkEditor",
+    "references": [
+        "GUID:b51863c6fa3a4d408f52f2d75bc403e1"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

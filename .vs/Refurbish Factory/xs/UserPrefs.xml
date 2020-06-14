@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{65A0B3A7-26F6-CC32-7D78-906237B64987}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DriveAway.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameOverCountdown.cs" Line="40" Column="1" />
+      <File FileName="Assets/Scripts/ItemToMakeLabel.cs" />
+      <File FileName="Assets/Scripts/DriveAway.cs" Line="69" Column="79" />
+      <File FileName="Assets/Scripts/BinSpawnLocationRandomiser.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3ebb4506-0733-438a-98c0-ea130de0f652" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
